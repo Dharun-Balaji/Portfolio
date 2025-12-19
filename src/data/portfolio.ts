@@ -38,11 +38,11 @@ export const portfolioData = {
     projects: [
         {
             title: "Orbit",
-            description: "A real-time anonymous chat platform that connects you with strangers instantly. Built with WebSockets for seamless messaging and a polished, dark-themed interface.",
+            description: "A real-time chat platform that connects you with strangers instantly. Built with WebSockets for seamless messaging and a polished, dark-themed interface.",
             tech: ["Next.js", "Pusher", "Tailwind CSS", "TypeScript"],
             liveUrl: "#",
             githubUrl: "https://github.com/Dharun-Balaji/Orbit",
-            metrics: ["Real-time", "Pusher", "Anonymous"],
+            metrics: ["Real-time", "Pusher"],
             featured: true,
         },
         {
