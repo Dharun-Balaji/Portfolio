@@ -45,7 +45,6 @@ export function Navbar() {
           className="text-xl font-bold tracking-tight hover:text-primary transition-colors"
         >
           <span className="text-gradient">{portfolioData.personal.name.split(" ")[0]}</span>
-          <span className="text-muted-foreground">.dev</span>
         </Link>
 
         {/* Desktop Navigation */}

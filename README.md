@@ -55,7 +55,6 @@ You'll need [Bun](https://bun.sh) installed on your machine.
 ## 👤 Author
 
 **Dharun Balaji**
-- Website: [dharun.dev](https://dharun.dev)
 - GitHub: [@Dharun-Balaji](https://github.com/Dharun-Balaji)
 - LinkedIn: [Dharun Balaji](https://www.linkedin.com/in/dharunbalaji/)
 

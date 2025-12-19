@@ -16,14 +16,31 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dharun Balaji | Full Stack Developer",
+  metadataBase: new URL("https://dharunbalaji.me"),
+  title: {
+    default: "Dharun Balaji | Full Stack Developer",
+    template: "%s | Dharun Balaji",
+  },
   description: "CSE student who turns ideas into polished digital products. Specializing in React, Next.js, and Flutter.",
-  keywords: ["developer", "portfolio", "react", "next.js", "full stack"],
+  keywords: ["developer", "portfolio", "react", "next.js", "full stack", "Dharun Balaji"],
   authors: [{ name: "Dharun Balaji" }],
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
   openGraph: {
     title: "Dharun Balaji | Full Stack Developer",
     description: "CSE student who turns ideas into polished digital products.",
+    url: "https://dharunbalaji.me",
+    siteName: "Dharun Balaji Portfolio",
+    locale: "en_US",
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Dharun Balaji | Full Stack Developer",
+    description: "CSE student who turns ideas into polished digital products.",
+    creator: "@DharunBalaji", // Assuming this is your handle, can be updated
   },
 };
 
