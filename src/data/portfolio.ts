@@ -55,8 +55,8 @@ export const portfolioData = {
             featured: true,
         },
         {
-            title: "SaaS Kanban",
-            description: "Production-ready project management board with drag-and-drop tasks, real-time updates, column customization, and team collaboration features.",
+            title: "Core",
+            description: "Project management board with drag-and-drop tasks, real-time updates, column customization, and team collaboration features.",
             tech: ["React", "Redux", "Node.js", "MongoDB"],
             liveUrl: "#",
             githubUrl: "https://github.com/Dharun-Balaji/saas-kanban",
