@@ -2,7 +2,6 @@
 
 Building performant web experiences. This is my personal portfolio website built with **Next.js 15**, **Bun**, and **shadcn/ui**.
 
-![Portfolio Preview](https://github.com/Dharun-Balaji/Portfolio/raw/main/public/og-image.png) *(Note: Replace with actual image path if available)*
 
 ## 🚀 Tech Stack
 
