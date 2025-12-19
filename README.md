@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dharun Balaji | Portfolio v2
 
-## Getting Started
+Building performant web experiences. This is my personal portfolio website built with **Next.js 15**, **Bun**, and **shadcn/ui**.
 
-First, run the development server:
+![Portfolio Preview](https://github.com/Dharun-Balaji/Portfolio/raw/main/public/og-image.png) *(Note: Replace with actual image path if available)*
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Framework:** [Next.js 15 (App Router)](https://nextjs.org)
+- **Runtime:** [Bun](https://bun.sh)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com)
+- **Components:** [shadcn/ui](https://ui.shadcn.com)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Deployment:** [Vercel](https://vercel.com)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Modern UI:** Sleek glassmorphism design with a focus on typography and spacing.
+- **Dark Mode:** Seamless theme switching with `next-themes`.
+- **Responsive:** Fully optimized for all screen sizes.
+- **Performance:** High Lighthouse scores thanks to Next.js 15 optimizations.
+- **Dynamic Content:** Centralized data management for easy updates.
 
-## Learn More
+## 🛠️ Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+### Prerequisites
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You'll need [Bun](https://bun.sh) installed on your machine.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Installation
 
-## Deploy on Vercel
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dharun-Balaji/Portfolio.git
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Install dependencies:
+   ```bash
+   bun install
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. Run the development server:
+   ```bash
+   bun dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) to see the result.
+
+## 📂 Project Structure
+
+- `src/app`: Next.js App Router pages and layouts.
+- `src/components`: Reusable UI components.
+- `src/data`: Portfolio content (projects, skills, etc.).
+- `src/lib`: Utility functions.
+
+## 👤 Author
+
+**Dharun Balaji**
+- Website: [dharun.dev](https://dharun.dev)
+- GitHub: [@Dharun-Balaji](https://github.com/Dharun-Balaji)
+- LinkedIn: [Dharun Balaji](https://www.linkedin.com/in/dharunbalaji/)
+
+## 📄 License
+
+This project is licensed under the MIT License.
