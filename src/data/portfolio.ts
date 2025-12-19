@@ -37,12 +37,12 @@ export const portfolioData = {
     ],
     projects: [
         {
-            title: "Cipher Chat",
-            description: "Anonymous real-time chat platform with instant stranger matching. Features WebSocket-powered messaging, typing indicators, and seamless reconnection handling.",
+            title: "Orbit",
+            description: "Real-time chat platform with instant stranger matching. Features WebSocket-powered messaging, typing indicators, and seamless reconnection handling.",
             tech: ["Next.js", "Pusher", "Tailwind CSS", "TypeScript"],
             liveUrl: "https://cipher-chat.vercel.app",
             githubUrl: "https://github.com/Dharun-Balaji/cipher-chat",
-            metrics: ["Real-time", "Anonymous", "WebSockets"],
+            metrics: ["Real-time", "WebSockets"],
             featured: true,
         },
         {
