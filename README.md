@@ -1,4 +1,4 @@
-# Dharun Balaji | Portfolio v2
+# Dharun Balaji | Portfolio
 
 Building performant web experiences. This is my personal portfolio website built with **Next.js 15**, **Bun**, and **shadcn/ui**.
 
